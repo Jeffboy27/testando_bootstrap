@@ -1,0 +1,25 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: black;
+}
+
+.navbar{
+    background-color: #6DEAD2;
+}
+
+.margin{
+    padding: 30px;
+    padding-top: 10px;
+}
+
+.quem-somos{
+    background-color: #d8dbdb;
+}
+
+p{
+    text-align: justify;
+}
